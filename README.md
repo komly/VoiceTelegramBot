@@ -1,6 +1,8 @@
 # VoiceTelegramBot
 Telegram bot for converting text to speech
 
+![Screenshot](https://raw.githubusercontent.com/Komly/VoiceTelegramBot/master/doc/screenshot.png)
+
 ## Installation
 - python3 -m venv venv
 - ./venv/bin/activate
